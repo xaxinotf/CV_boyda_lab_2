@@ -1,0 +1,556 @@
+2025-02-24 10:26:26,196 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.100
+2025-02-24 10:26:27,225 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.100
+2025-02-24 10:26:28,228 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.100
+2025-02-24 10:26:29,242 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.100
+2025-02-24 10:26:30,259 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.100
+2025-02-24 10:26:31,278 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.100
+2025-02-24 10:26:32,308 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.100
+2025-02-24 10:26:33,320 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.100
+2025-02-24 10:26:34,349 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.100
+2025-02-24 10:26:35,360 - INFO - Gesture: Б, Stability: 96.67%, Threshold: 0.100
+2025-02-24 10:26:36,387 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.100
+2025-02-24 10:26:37,401 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.100
+2025-02-24 10:26:38,414 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.100
+2025-02-24 10:26:39,441 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.100
+2025-02-24 10:26:40,466 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.100
+2025-02-24 10:26:41,481 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.100
+2025-02-24 10:26:42,481 - INFO - Gesture: Б, Stability: 96.67%, Threshold: 0.100
+2025-02-24 10:26:43,495 - INFO - Gesture: Б, Stability: 96.67%, Threshold: 0.100
+2025-02-24 10:26:44,495 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.100
+2025-02-24 10:26:45,518 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.100
+2025-02-24 10:26:46,551 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.100
+2025-02-24 10:26:47,565 - INFO - Gesture: Немає руки, Stability: 45.16%, Threshold: 0.100
+2025-02-24 10:26:48,584 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.195
+2025-02-24 10:26:49,626 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.439
+2025-02-24 10:26:50,627 - INFO - Gesture: Не Б, Stability: 26.67%, Threshold: 0.455
+2025-02-24 10:26:51,625 - INFO - Gesture: Не Б, Stability: 100.00%, Threshold: 0.455
+2025-02-24 10:26:52,633 - INFO - Gesture: Не Б, Stability: 100.00%, Threshold: 0.455
+2025-02-24 10:26:53,662 - INFO - Gesture: Не Б, Stability: 100.00%, Threshold: 0.455
+2025-02-24 10:26:54,677 - INFO - Gesture: Не Б, Stability: 100.00%, Threshold: 0.455
+2025-02-24 10:26:55,700 - INFO - Gesture: Не Б, Stability: 100.00%, Threshold: 0.455
+2025-02-24 10:26:56,710 - INFO - Gesture: Не Б, Stability: 100.00%, Threshold: 0.455
+2025-02-24 10:26:57,723 - INFO - Gesture: Не Б, Stability: 100.00%, Threshold: 0.455
+2025-02-24 10:26:58,752 - INFO - Gesture: Не Б, Stability: 100.00%, Threshold: 0.455
+2025-02-24 10:26:59,781 - INFO - Gesture: Не Б, Stability: 100.00%, Threshold: 0.455
+2025-02-24 10:27:00,798 - INFO - Gesture: Не Б, Stability: 100.00%, Threshold: 0.455
+2025-02-24 10:27:01,818 - INFO - Gesture: Не Б, Stability: 100.00%, Threshold: 0.455
+2025-02-24 10:27:02,833 - INFO - Gesture: Не Б, Stability: 100.00%, Threshold: 0.455
+2025-02-24 10:27:03,850 - INFO - Gesture: Не Б, Stability: 100.00%, Threshold: 0.455
+2025-02-24 10:27:04,878 - INFO - Gesture: Не Б, Stability: 100.00%, Threshold: 0.455
+2025-02-24 10:27:05,885 - INFO - Gesture: Не Б, Stability: 100.00%, Threshold: 0.455
+2025-02-24 10:27:06,896 - INFO - Gesture: Немає руки, Stability: 30.00%, Threshold: 0.455
+2025-02-24 10:27:07,894 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.455
+2025-02-24 10:27:08,941 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.455
+2025-02-24 10:27:09,956 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.455
+2025-02-24 10:27:10,968 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.455
+2025-02-24 10:27:11,977 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.455
+2025-02-24 10:27:12,989 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.455
+2025-02-24 10:27:14,023 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.455
+2025-02-24 10:27:15,051 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.455
+2025-02-24 10:27:16,061 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.455
+2025-02-24 10:27:17,062 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.455
+2025-02-24 10:27:18,090 - INFO - Gesture: Не Б, Stability: 67.74%, Threshold: 0.455
+2025-02-24 10:27:19,105 - INFO - Gesture: Не Б, Stability: 100.00%, Threshold: 0.455
+2025-02-24 10:27:20,134 - INFO - Gesture: Не Б, Stability: 100.00%, Threshold: 0.455
+2025-02-24 10:27:21,147 - INFO - Gesture: Не Б, Stability: 100.00%, Threshold: 0.455
+2025-02-24 10:27:22,160 - INFO - Gesture: Не Б, Stability: 100.00%, Threshold: 0.455
+2025-02-24 10:27:23,161 - INFO - Gesture: Не Б, Stability: 100.00%, Threshold: 0.455
+2025-02-24 10:27:24,192 - INFO - Gesture: Не Б, Stability: 100.00%, Threshold: 0.455
+2025-02-24 10:27:25,219 - INFO - Gesture: Не Б, Stability: 100.00%, Threshold: 0.455
+2025-02-24 10:27:26,240 - INFO - Gesture: Не Б, Stability: 100.00%, Threshold: 0.455
+2025-02-24 10:27:27,247 - INFO - Gesture: Немає руки, Stability: 6.67%, Threshold: 0.455
+2025-02-24 10:27:28,248 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.455
+2025-02-24 10:27:29,281 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.000
+2025-02-24 10:27:30,293 - INFO - Gesture: Б, Stability: 16.67%, Threshold: 0.000
+2025-02-24 10:27:31,294 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.000
+2025-02-24 10:27:32,299 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.000
+2025-02-24 10:27:33,314 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.000
+2025-02-24 10:27:34,331 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.000
+2025-02-24 10:27:35,335 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.000
+2025-02-24 10:27:36,348 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.000
+2025-02-24 10:27:37,360 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.000
+2025-02-24 10:27:38,387 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.000
+2025-02-24 10:27:39,384 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.000
+2025-02-24 10:27:40,396 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.000
+2025-02-24 10:27:41,408 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.000
+2025-02-24 10:27:42,439 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.000
+2025-02-24 10:27:43,441 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.000
+2025-02-24 10:27:44,452 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.000
+2025-02-24 10:27:45,459 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.000
+2025-02-24 10:27:46,462 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.000
+2025-02-24 10:27:47,478 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.000
+2025-02-24 10:27:48,492 - INFO - Gesture: Немає руки, Stability: 13.33%, Threshold: 0.000
+2025-02-24 10:27:49,506 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.000
+2025-02-24 10:27:50,523 - INFO - Gesture: Б, Stability: 20.00%, Threshold: 0.050
+2025-02-24 10:27:51,540 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.050
+2025-02-24 10:27:52,561 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.050
+2025-02-24 10:27:53,581 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.050
+2025-02-24 10:27:54,591 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.050
+2025-02-24 10:27:55,621 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.050
+2025-02-24 10:27:56,633 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.050
+2025-02-24 10:27:57,646 - INFO - Gesture: Немає руки, Stability: 6.45%, Threshold: 0.050
+2025-02-24 10:27:58,664 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.050
+2025-02-24 10:27:59,679 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.050
+2025-02-24 10:28:00,678 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.050
+2025-02-24 10:28:01,698 - INFO - Gesture: Б, Stability: 30.00%, Threshold: 0.050
+2025-02-24 10:28:02,710 - INFO - Gesture: Б, Stability: 86.21%, Threshold: 0.050
+2025-02-24 10:28:03,726 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.050
+2025-02-24 10:28:04,757 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.050
+2025-02-24 10:28:05,773 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.050
+2025-02-24 10:28:06,804 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.050
+2025-02-24 10:28:07,837 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.050
+2025-02-24 10:28:08,849 - INFO - Gesture: Немає руки, Stability: 80.00%, Threshold: 0.050
+2025-02-24 10:28:09,848 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.050
+2025-02-24 10:28:10,862 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.050
+2025-02-24 10:28:11,877 - INFO - Gesture: Б, Stability: 34.48%, Threshold: 0.050
+2025-02-24 10:28:12,894 - INFO - Gesture: Б, Stability: 21.43%, Threshold: 0.050
+2025-02-24 10:28:13,895 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.087
+2025-02-24 10:28:14,923 - INFO - Gesture: Б, Stability: 20.00%, Threshold: 0.149
+2025-02-24 10:28:15,952 - INFO - Gesture: Б, Stability: 71.43%, Threshold: 0.149
+2025-02-24 10:28:16,957 - INFO - Gesture: Б, Stability: 42.86%, Threshold: 0.149
+2025-02-24 10:28:17,988 - INFO - Gesture: Б, Stability: 76.67%, Threshold: 0.149
+2025-02-24 10:28:19,013 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.149
+2025-02-24 10:28:20,031 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.149
+2025-02-24 10:28:21,045 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.149
+2025-02-24 10:28:22,057 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.149
+2025-02-24 10:28:23,073 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.149
+2025-02-24 10:28:24,087 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.149
+2025-02-24 10:28:25,087 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.149
+2025-02-24 10:28:26,129 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.149
+2025-02-24 10:28:27,144 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.149
+2025-02-24 10:28:28,162 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.149
+2025-02-24 10:28:29,176 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.149
+2025-02-24 10:28:30,207 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.149
+2025-02-24 10:28:31,208 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.149
+2025-02-24 10:28:32,236 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.149
+2025-02-24 10:28:33,251 - INFO - Gesture: Б, Stability: 100.00%, Threshold: 0.149
+2025-02-24 10:28:34,283 - INFO - Gesture: Немає руки, Stability: 77.42%, Threshold: 0.149
+2025-02-24 10:28:35,296 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.149
+2025-02-24 10:28:36,304 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.149
+2025-02-24 10:28:37,312 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.149
+2025-02-24 10:28:38,343 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.149
+2025-02-24 10:28:39,340 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.149
+2025-02-24 10:28:40,355 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.149
+2025-02-24 10:28:41,381 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.149
+2025-02-24 10:28:42,378 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.149
+2025-02-24 10:28:43,389 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.149
+2025-02-24 10:28:44,401 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.149
+2025-02-24 10:28:45,399 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.149
+2025-02-24 10:28:46,408 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.149
+2025-02-24 10:28:47,411 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.149
+2025-02-24 10:28:48,422 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.149
+2025-02-24 10:28:49,467 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.149
+2025-02-24 10:28:50,484 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.149
+2025-02-24 10:28:51,496 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.149
+2025-02-24 10:28:52,507 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.149
+2025-02-24 10:28:53,538 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.149
+2025-02-24 10:28:54,544 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.149
+2025-02-24 10:28:55,560 - INFO - Gesture: Немає руки, Stability: 100.00%, Threshold: 0.149
+2025-02-24 10:28:57,768 - INFO - Програма завершена.
+2025-02-24 10:34:57,598 - INFO - Gesture: Б, Stability: 100.00%, Similarity: 83.95%, Threshold: 0.100
+2025-02-24 10:34:58,616 - INFO - Gesture: Б, Stability: 100.00%, Similarity: 82.98%, Threshold: 0.100
+2025-02-24 10:34:59,643 - INFO - Gesture: Б, Stability: 100.00%, Similarity: 83.80%, Threshold: 0.100
+2025-02-24 10:35:00,639 - INFO - Gesture: Б, Stability: 100.00%, Similarity: 83.71%, Threshold: 0.100
+2025-02-24 10:35:01,656 - INFO - Gesture: Б, Stability: 100.00%, Similarity: 94.36%, Threshold: 0.100
+2025-02-24 10:35:02,657 - INFO - Gesture: Б, Stability: 100.00%, Similarity: 88.11%, Threshold: 0.100
+2025-02-24 10:35:03,685 - INFO - Gesture: Б, Stability: 100.00%, Similarity: 87.11%, Threshold: 0.100
+2025-02-24 10:35:04,700 - INFO - Gesture: Б, Stability: 100.00%, Similarity: 83.23%, Threshold: 0.100
+2025-02-24 10:35:05,698 - INFO - Gesture: Б, Stability: 100.00%, Similarity: 86.05%, Threshold: 0.100
+2025-02-24 10:35:06,726 - INFO - Gesture: Б, Stability: 100.00%, Similarity: 86.42%, Threshold: 0.100
+2025-02-24 10:35:07,739 - INFO - Gesture: Б, Stability: 100.00%, Similarity: 89.48%, Threshold: 0.100
+2025-02-24 10:35:08,738 - INFO - Gesture: Б, Stability: 100.00%, Similarity: 90.74%, Threshold: 0.100
+2025-02-24 10:35:09,749 - INFO - Gesture: Б, Stability: 100.00%, Similarity: 90.90%, Threshold: 0.100
+2025-02-24 10:35:10,793 - INFO - Gesture: Б, Stability: 100.00%, Similarity: 91.00%, Threshold: 0.100
+2025-02-24 10:35:11,817 - INFO - Gesture: Б, Stability: 100.00%, Similarity: 91.32%, Threshold: 0.100
+2025-02-24 10:35:12,818 - INFO - Gesture: Б, Stability: 100.00%, Similarity: 83.75%, Threshold: 0.100
+2025-02-24 10:35:13,829 - INFO - Gesture: Б, Stability: 100.00%, Similarity: 89.19%, Threshold: 0.100
+2025-02-24 10:35:14,837 - INFO - Gesture: Б, Stability: 100.00%, Similarity: 88.96%, Threshold: 0.100
+2025-02-24 10:35:15,868 - INFO - Gesture: Б, Stability: 100.00%, Similarity: 89.91%, Threshold: 0.100
+2025-02-24 10:35:16,898 - INFO - Gesture: Б, Stability: 100.00%, Similarity: 90.14%, Threshold: 0.100
+2025-02-24 10:35:17,911 - INFO - Gesture: Б, Stability: 100.00%, Similarity: 90.14%, Threshold: 0.100
+2025-02-24 10:35:18,940 - INFO - Gesture: Б, Stability: 100.00%, Similarity: 91.35%, Threshold: 0.100
+2025-02-24 10:35:19,957 - INFO - Gesture: Б, Stability: 100.00%, Similarity: 90.81%, Threshold: 0.100
+2025-02-24 10:35:21,000 - INFO - Gesture: Немає руки, Stability: 22.58%, Similarity: 0.00%, Threshold: 0.100
+2025-02-24 10:35:22,017 - INFO - Gesture: Немає руки, Stability: 100.00%, Similarity: 0.00%, Threshold: 0.100
+2025-02-24 10:35:23,030 - INFO - Gesture: Немає руки, Stability: 100.00%, Similarity: 0.00%, Threshold: 0.100
+2025-02-24 10:35:24,043 - INFO - Gesture: Немає руки, Stability: 100.00%, Similarity: 0.00%, Threshold: 0.100
+2025-02-24 10:35:25,046 - INFO - Gesture: Немає руки, Stability: 100.00%, Similarity: 0.00%, Threshold: 0.611
+2025-02-24 10:35:26,059 - INFO - Gesture: Не Б, Stability: 23.33%, Similarity: 3.57%, Threshold: 0.611
+2025-02-24 10:35:27,068 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 7.95%, Threshold: 0.611
+2025-02-24 10:35:28,094 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 14.03%, Threshold: 0.611
+2025-02-24 10:35:29,126 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 15.62%, Threshold: 0.611
+2025-02-24 10:35:30,143 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 15.70%, Threshold: 0.611
+2025-02-24 10:35:31,158 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 4.83%, Threshold: 0.611
+2025-02-24 10:35:32,161 - INFO - Gesture: Не Б, Stability: 89.66%, Similarity: 8.40%, Threshold: 0.611
+2025-02-24 10:35:33,180 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 5.09%, Threshold: 0.611
+2025-02-24 10:35:34,193 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 5.01%, Threshold: 0.611
+2025-02-24 10:35:35,224 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 5.12%, Threshold: 0.611
+2025-02-24 10:35:36,252 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 4.09%, Threshold: 0.611
+2025-02-24 10:35:37,261 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 3.23%, Threshold: 0.611
+2025-02-24 10:35:38,273 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 2.97%, Threshold: 0.611
+2025-02-24 10:35:39,299 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 2.95%, Threshold: 0.611
+2025-02-24 10:35:40,314 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 3.36%, Threshold: 0.611
+2025-02-24 10:35:41,331 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 3.77%, Threshold: 0.611
+2025-02-24 10:35:42,346 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 5.28%, Threshold: 0.611
+2025-02-24 10:35:43,361 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 4.60%, Threshold: 0.611
+2025-02-24 10:35:44,362 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 4.48%, Threshold: 0.611
+2025-02-24 10:35:45,396 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 4.62%, Threshold: 0.611
+2025-02-24 10:35:46,425 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 4.57%, Threshold: 0.611
+2025-02-24 10:35:47,439 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 4.55%, Threshold: 0.611
+2025-02-24 10:35:48,466 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 4.51%, Threshold: 0.611
+2025-02-24 10:35:49,483 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 4.36%, Threshold: 0.611
+2025-02-24 10:35:50,486 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 4.05%, Threshold: 0.611
+2025-02-24 10:35:51,516 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 3.89%, Threshold: 0.611
+2025-02-24 10:35:52,517 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 4.15%, Threshold: 0.611
+2025-02-24 10:35:53,530 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 4.18%, Threshold: 0.611
+2025-02-24 10:35:54,547 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 4.16%, Threshold: 0.611
+2025-02-24 10:35:55,557 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 24.15%, Threshold: 0.411
+2025-02-24 10:35:56,567 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 24.62%, Threshold: 0.411
+2025-02-24 10:35:57,579 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 24.33%, Threshold: 0.411
+2025-02-24 10:35:58,589 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 42.13%, Threshold: 0.411
+2025-02-24 10:35:59,601 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 39.23%, Threshold: 0.411
+2025-02-24 10:36:00,595 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 39.39%, Threshold: 0.411
+2025-02-24 10:36:01,594 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 40.17%, Threshold: 0.411
+2025-02-24 10:36:02,608 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 40.03%, Threshold: 0.411
+2025-02-24 10:36:03,617 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 39.82%, Threshold: 0.411
+2025-02-24 10:36:04,631 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 40.38%, Threshold: 0.411
+2025-02-24 10:36:05,649 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 10.47%, Threshold: 0.586
+2025-02-24 10:36:06,648 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 3.42%, Threshold: 0.706
+2025-02-24 10:36:07,660 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 1.51%, Threshold: 0.706
+2025-02-24 10:36:08,706 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 1.52%, Threshold: 0.706
+2025-02-24 10:36:09,702 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 1.56%, Threshold: 0.706
+2025-02-24 10:36:10,729 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 1.47%, Threshold: 0.706
+2025-02-24 10:36:11,740 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 1.41%, Threshold: 0.706
+2025-02-24 10:36:12,771 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 1.18%, Threshold: 0.706
+2025-02-24 10:36:13,780 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 1.31%, Threshold: 0.706
+2025-02-24 10:36:14,812 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 1.31%, Threshold: 0.706
+2025-02-24 10:36:15,824 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 1.65%, Threshold: 0.706
+2025-02-24 10:36:16,837 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 1.27%, Threshold: 0.706
+2025-02-24 10:36:17,838 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 1.18%, Threshold: 0.706
+2025-02-24 10:36:18,857 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 1.15%, Threshold: 0.706
+2025-02-24 10:36:19,866 - INFO - Gesture: Не Б, Stability: 96.67%, Similarity: 1.30%, Threshold: 0.706
+2025-02-24 10:36:20,895 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 1.22%, Threshold: 0.706
+2025-02-24 10:36:21,922 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 1.21%, Threshold: 0.706
+2025-02-24 10:36:22,922 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 1.29%, Threshold: 0.706
+2025-02-24 10:36:23,951 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 1.30%, Threshold: 0.706
+2025-02-24 10:36:24,960 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 1.46%, Threshold: 0.706
+2025-02-24 10:36:25,990 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 3.17%, Threshold: 0.706
+2025-02-24 10:36:27,007 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 2.46%, Threshold: 0.706
+2025-02-24 10:36:28,019 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 2.29%, Threshold: 0.706
+2025-02-24 10:36:29,031 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 2.29%, Threshold: 0.706
+2025-02-24 10:36:30,055 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 2.26%, Threshold: 0.706
+2025-02-24 10:36:31,054 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 2.29%, Threshold: 0.706
+2025-02-24 10:36:32,070 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 2.29%, Threshold: 0.706
+2025-02-24 10:36:33,101 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 3.57%, Threshold: 0.706
+2025-02-24 10:36:34,128 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 9.41%, Threshold: 0.706
+2025-02-24 10:36:35,135 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 5.36%, Threshold: 0.706
+2025-02-24 10:36:36,151 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 5.07%, Threshold: 0.706
+2025-02-24 10:36:37,168 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 3.65%, Threshold: 0.706
+2025-02-24 10:36:38,189 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 3.64%, Threshold: 0.706
+2025-02-24 10:36:39,212 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 2.84%, Threshold: 0.706
+2025-02-24 10:36:40,218 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 2.87%, Threshold: 0.706
+2025-02-24 10:36:41,229 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 2.85%, Threshold: 0.706
+2025-02-24 10:36:42,246 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 2.72%, Threshold: 0.706
+2025-02-24 10:36:43,262 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 3.10%, Threshold: 0.706
+2025-02-24 10:36:44,272 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 3.02%, Threshold: 0.706
+2025-02-24 10:36:45,283 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 2.79%, Threshold: 0.706
+2025-02-24 10:36:46,294 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 2.67%, Threshold: 0.706
+2025-02-24 10:36:47,325 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 2.71%, Threshold: 0.706
+2025-02-24 10:36:48,350 - INFO - Gesture: Не Б, Stability: 100.00%, Similarity: 2.04%, Threshold: 0.706
+2025-02-24 10:36:49,364 - INFO - Gesture: Немає руки, Stability: 26.67%, Similarity: 0.00%, Threshold: 0.706
+2025-02-24 10:36:50,398 - INFO - Gesture: Немає руки, Stability: 100.00%, Similarity: 0.00%, Threshold: 0.506
+2025-02-24 10:36:51,415 - INFO - Gesture: Немає руки, Stability: 100.00%, Similarity: 0.00%, Threshold: 0.306
+2025-02-24 10:36:52,442 - INFO - Gesture: Немає руки, Stability: 100.00%, Similarity: 0.00%, Threshold: 0.306
+2025-02-24 10:36:53,451 - INFO - Gesture: Немає руки, Stability: 100.00%, Similarity: 0.00%, Threshold: 0.141
+2025-02-24 10:36:54,483 - INFO - Gesture: Немає руки, Stability: 100.00%, Similarity: 0.00%, Threshold: 0.141
+2025-02-24 10:36:55,492 - INFO - Gesture: Немає руки, Stability: 100.00%, Similarity: 0.00%, Threshold: 0.141
+2025-02-24 10:36:56,502 - INFO - Gesture: Немає руки, Stability: 100.00%, Similarity: 0.00%, Threshold: 0.141
+2025-02-24 10:36:57,513 - INFO - Gesture: Немає руки, Stability: 100.00%, Similarity: 0.00%, Threshold: 0.141
+2025-02-24 10:36:58,526 - INFO - Gesture: Немає руки, Stability: 100.00%, Similarity: 0.00%, Threshold: 0.141
+2025-02-24 10:36:59,534 - INFO - Gesture: Немає руки, Stability: 100.00%, Similarity: 0.00%, Threshold: 0.141
+2025-02-24 10:37:02,272 - INFO - Програма завершена.
+2025-02-24 10:39:32,200 - INFO - Поточний жест: Немає руки | Стабільність: 100.00% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:39:33,217 - INFO - Поточний жест: Немає руки | Стабільність: 100.00% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:39:34,217 - INFO - Поточний жест: Немає руки | Стабільність: 100.00% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:39:35,232 - INFO - Поточний жест: Не Б | Стабільність: 31.03% | Openness ratio: 0.88 | Схожість до 'Б': 53.66% | Поріг: 0.600
+2025-02-24 10:39:36,261 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.85 | Схожість до 'Б': 58.33% | Поріг: 0.600
+2025-02-24 10:39:37,261 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.78 | Схожість до 'Б': 70.03% | Поріг: 0.600
+2025-02-24 10:39:38,274 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.68 | Схожість до 'Б': 87.35% | Поріг: 0.600
+2025-02-24 10:39:39,302 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.68 | Схожість до 'Б': 86.57% | Поріг: 0.600
+2025-02-24 10:39:40,319 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.70 | Схожість до 'Б': 82.83% | Поріг: 0.600
+2025-02-24 10:39:41,347 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.77 | Схожість до 'Б': 72.09% | Поріг: 0.600
+2025-02-24 10:39:42,378 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.63 | Схожість до 'Б': 94.59% | Поріг: 0.600
+2025-02-24 10:39:43,394 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.64 | Схожість до 'Б': 93.58% | Поріг: 0.600
+2025-02-24 10:39:44,406 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.91 | Схожість до 'Б': 47.56% | Поріг: 0.600
+2025-02-24 10:39:45,441 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.92 | Схожість до 'Б': 47.36% | Поріг: 0.600
+2025-02-24 10:39:46,457 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.80 | Схожість до 'Б': 66.98% | Поріг: 0.600
+2025-02-24 10:39:47,473 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.78 | Схожість до 'Б': 70.14% | Поріг: 0.600
+2025-02-24 10:39:48,474 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.88 | Схожість до 'Б': 52.95% | Поріг: 0.600
+2025-02-24 10:39:49,474 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.83 | Схожість до 'Б': 61.60% | Поріг: 0.600
+2025-02-24 10:39:50,524 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.79 | Схожість до 'Б': 67.83% | Поріг: 0.600
+2025-02-24 10:39:51,540 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.72 | Схожість до 'Б': 80.59% | Поріг: 0.600
+2025-02-24 10:39:52,558 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.71 | Схожість до 'Б': 81.35% | Поріг: 0.600
+2025-02-24 10:39:53,558 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.69 | Схожість до 'Б': 85.65% | Поріг: 0.600
+2025-02-24 10:39:54,591 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.69 | Схожість до 'Б': 85.57% | Поріг: 0.600
+2025-02-24 10:39:55,617 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.69 | Схожість до 'Б': 85.22% | Поріг: 0.600
+2025-02-24 10:39:56,635 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.66 | Схожість до 'Б': 89.22% | Поріг: 0.600
+2025-02-24 10:39:57,639 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.67 | Схожість до 'Б': 88.14% | Поріг: 0.600
+2025-02-24 10:39:58,658 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.67 | Схожість до 'Б': 87.62% | Поріг: 0.600
+2025-02-24 10:39:59,658 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.70 | Схожість до 'Б': 83.06% | Поріг: 0.600
+2025-02-24 10:40:00,677 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.70 | Схожість до 'Б': 82.69% | Поріг: 0.600
+2025-02-24 10:40:01,694 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.70 | Схожість до 'Б': 83.38% | Поріг: 0.600
+2025-02-24 10:40:02,706 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.71 | Схожість до 'Б': 82.23% | Поріг: 0.600
+2025-02-24 10:40:03,706 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.71 | Схожість до 'Б': 82.32% | Поріг: 0.600
+2025-02-24 10:40:04,721 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.69 | Схожість до 'Б': 85.29% | Поріг: 0.600
+2025-02-24 10:40:05,736 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.68 | Схожість до 'Б': 86.78% | Поріг: 0.600
+2025-02-24 10:40:06,754 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.69 | Схожість до 'Б': 84.78% | Поріг: 0.600
+2025-02-24 10:40:07,770 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.67 | Схожість до 'Б': 87.95% | Поріг: 0.600
+2025-02-24 10:40:08,806 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.77 | Схожість до 'Б': 71.17% | Поріг: 0.600
+2025-02-24 10:40:09,807 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.79 | Схожість до 'Б': 68.63% | Поріг: 0.600
+2025-02-24 10:40:10,835 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.76 | Схожість до 'Б': 72.68% | Поріг: 0.600
+2025-02-24 10:40:11,847 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.72 | Схожість до 'Б': 80.42% | Поріг: 0.600
+2025-02-24 10:40:12,847 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.70 | Схожість до 'Б': 83.10% | Поріг: 0.600
+2025-02-24 10:40:13,850 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.67 | Схожість до 'Б': 88.54% | Поріг: 0.600
+2025-02-24 10:40:14,883 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.68 | Схожість до 'Б': 87.36% | Поріг: 0.600
+2025-02-24 10:40:15,900 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.67 | Схожість до 'Б': 88.63% | Поріг: 0.600
+2025-02-24 10:40:16,931 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.67 | Схожість до 'Б': 88.83% | Поріг: 0.600
+2025-02-24 10:40:17,962 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.68 | Схожість до 'Б': 87.25% | Поріг: 0.600
+2025-02-24 10:40:18,977 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.69 | Схожість до 'Б': 85.48% | Поріг: 0.600
+2025-02-24 10:40:19,980 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.69 | Схожість до 'Б': 85.13% | Поріг: 0.600
+2025-02-24 10:40:21,013 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.69 | Схожість до 'Б': 84.68% | Поріг: 0.600
+2025-02-24 10:40:22,043 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.77 | Схожість до 'Б': 71.38% | Поріг: 0.600
+2025-02-24 10:40:23,060 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 1.00 | Схожість до 'Б': 33.50% | Поріг: 0.600
+2025-02-24 10:40:24,077 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 1.10 | Схожість до 'Б': 17.16% | Поріг: 0.600
+2025-02-24 10:40:25,104 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 1.14 | Схожість до 'Б': 10.74% | Поріг: 0.600
+2025-02-24 10:40:26,100 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 1.02 | Схожість до 'Б': 29.86% | Поріг: 0.600
+2025-02-24 10:40:27,102 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.73 | Схожість до 'Б': 77.84% | Поріг: 0.600
+2025-02-24 10:40:28,115 - INFO - Поточний жест: Б | Стабільність: 46.67% | Openness ratio: 0.57 | Схожість до 'Б': 95.58% | Поріг: 0.600
+2025-02-24 10:40:29,114 - INFO - Поточний жест: Б | Стабільність: 100.00% | Openness ratio: 0.58 | Схожість до 'Б': 96.55% | Поріг: 0.600
+2025-02-24 10:40:30,144 - INFO - Поточний жест: Б | Стабільність: 100.00% | Openness ratio: 0.58 | Схожість до 'Б': 96.87% | Поріг: 0.600
+2025-02-24 10:40:31,159 - INFO - Поточний жест: Б | Стабільність: 100.00% | Openness ratio: 0.58 | Схожість до 'Б': 96.17% | Поріг: 0.600
+2025-02-24 10:40:32,176 - INFO - Поточний жест: Б | Стабільність: 100.00% | Openness ratio: 0.59 | Схожість до 'Б': 98.48% | Поріг: 0.600
+2025-02-24 10:40:33,208 - INFO - Поточний жест: Не Б | Стабільність: 54.84% | Openness ratio: 0.62 | Схожість до 'Б': 96.00% | Поріг: 0.600
+2025-02-24 10:40:34,240 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.68 | Схожість до 'Б': 87.29% | Поріг: 0.600
+2025-02-24 10:40:35,272 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.87 | Схожість до 'Б': 54.81% | Поріг: 0.600
+2025-02-24 10:40:36,273 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.87 | Схожість до 'Б': 55.27% | Поріг: 0.600
+2025-02-24 10:40:37,284 - INFO - Поточний жест: Немає руки | Стабільність: 36.67% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:40:38,294 - INFO - Поточний жест: Немає руки | Стабільність: 100.00% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:40:39,313 - INFO - Поточний жест: Немає руки | Стабільність: 100.00% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:40:40,344 - INFO - Поточний жест: Не Б | Стабільність: 3.23% | Openness ratio: 1.01 | Схожість до 'Б': 31.70% | Поріг: 0.600
+2025-02-24 10:40:41,339 - INFO - Поточний жест: Не Б | Стабільність: 93.33% | Openness ratio: 0.72 | Схожість до 'Б': 79.70% | Поріг: 0.600
+2025-02-24 10:40:42,370 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.73 | Схожість до 'Б': 78.13% | Поріг: 0.600
+2025-02-24 10:40:43,384 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.74 | Схожість до 'Б': 77.23% | Поріг: 0.600
+2025-02-24 10:40:44,410 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.74 | Схожість до 'Б': 77.22% | Поріг: 0.600
+2025-02-24 10:40:45,436 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.72 | Схожість до 'Б': 79.22% | Поріг: 0.600
+2025-02-24 10:40:46,448 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.72 | Схожість до 'Б': 79.48% | Поріг: 0.600
+2025-02-24 10:40:47,460 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.87 | Схожість до 'Б': 55.58% | Поріг: 0.600
+2025-02-24 10:40:48,463 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.92 | Схожість до 'Б': 45.95% | Поріг: 0.600
+2025-02-24 10:40:49,509 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.91 | Схожість до 'Б': 48.55% | Поріг: 0.600
+2025-02-24 10:40:50,525 - INFO - Поточний жест: Б | Стабільність: 9.68% | Openness ratio: 0.53 | Схожість до 'Б': 89.11% | Поріг: 0.600
+2025-02-24 10:40:51,553 - INFO - Поточний жест: Немає руки | Стабільність: 31.03% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:40:52,554 - INFO - Поточний жест: Б | Стабільність: 82.14% | Openness ratio: 0.50 | Схожість до 'Б': 83.53% | Поріг: 0.600
+2025-02-24 10:40:53,581 - INFO - Поточний жест: Не Б | Стабільність: 6.45% | Openness ratio: 0.63 | Схожість до 'Б': 94.30% | Поріг: 0.600
+2025-02-24 10:40:54,633 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.65 | Схожість до 'Б': 91.85% | Поріг: 0.600
+2025-02-24 10:40:55,629 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.78 | Схожість до 'Б': 70.72% | Поріг: 0.600
+2025-02-24 10:40:56,640 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.81 | Схожість до 'Б': 64.23% | Поріг: 0.600
+2025-02-24 10:40:57,665 - INFO - Поточний жест: Не Б | Стабільність: 80.65% | Openness ratio: 0.86 | Схожість до 'Б': 56.24% | Поріг: 0.600
+2025-02-24 10:40:58,695 - INFO - Поточний жест: Не Б | Стабільність: 96.67% | Openness ratio: 0.65 | Схожість до 'Б': 90.99% | Поріг: 0.600
+2025-02-24 10:40:59,711 - INFO - Поточний жест: Б | Стабільність: 77.42% | Openness ratio: 0.52 | Схожість до 'Б': 85.86% | Поріг: 0.600
+2025-02-24 10:41:00,741 - INFO - Поточний жест: Не Б | Стабільність: 51.61% | Openness ratio: 0.65 | Схожість до 'Б': 92.02% | Поріг: 0.600
+2025-02-24 10:41:01,776 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.69 | Схожість до 'Б': 84.41% | Поріг: 0.600
+2025-02-24 10:41:02,789 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.77 | Схожість до 'Б': 72.35% | Поріг: 0.600
+2025-02-24 10:41:03,818 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.72 | Схожість до 'Б': 79.76% | Поріг: 0.600
+2025-02-24 10:41:04,818 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.78 | Схожість до 'Б': 69.48% | Поріг: 0.600
+2025-02-24 10:41:05,832 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.66 | Схожість до 'Б': 90.48% | Поріг: 0.600
+2025-02-24 10:41:06,863 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.66 | Схожість до 'Б': 89.82% | Поріг: 0.600
+2025-02-24 10:41:07,877 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.66 | Схожість до 'Б': 89.53% | Поріг: 0.600
+2025-02-24 10:41:08,886 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.67 | Схожість до 'Б': 88.18% | Поріг: 0.600
+2025-02-24 10:41:09,931 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.66 | Схожість до 'Б': 89.69% | Поріг: 0.600
+2025-02-24 10:41:10,925 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.66 | Схожість до 'Б': 89.57% | Поріг: 0.600
+2025-02-24 10:41:11,934 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.71 | Схожість до 'Б': 80.91% | Поріг: 0.600
+2025-02-24 10:41:12,962 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.66 | Схожість до 'Б': 90.49% | Поріг: 0.600
+2025-02-24 10:41:13,966 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.66 | Схожість до 'Б': 89.74% | Поріг: 0.600
+2025-02-24 10:41:15,014 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.75 | Схожість до 'Б': 75.28% | Поріг: 0.600
+2025-02-24 10:41:16,012 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.76 | Схожість до 'Б': 73.38% | Поріг: 0.600
+2025-02-24 10:41:17,039 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.66 | Схожість до 'Б': 89.72% | Поріг: 0.600
+2025-02-24 10:41:18,050 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.72 | Схожість до 'Б': 80.81% | Поріг: 0.600
+2025-02-24 10:41:19,081 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.68 | Схожість до 'Б': 86.74% | Поріг: 0.600
+2025-02-24 10:41:20,082 - INFO - Поточний жест: Не Б | Стабільність: 86.21% | Openness ratio: 0.80 | Схожість до 'Б': 66.08% | Поріг: 0.600
+2025-02-24 10:41:21,098 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.77 | Схожість до 'Б': 71.50% | Поріг: 0.600
+2025-02-24 10:41:22,117 - INFO - Поточний жест: Б | Стабільність: 9.68% | Openness ratio: 0.56 | Схожість до 'Б': 93.72% | Поріг: 0.600
+2025-02-24 10:41:23,147 - INFO - Поточний жест: Не Б | Стабільність: 77.42% | Openness ratio: 0.62 | Схожість до 'Б': 96.27% | Поріг: 0.600
+2025-02-24 10:41:24,145 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.68 | Схожість до 'Б': 86.12% | Поріг: 0.600
+2025-02-24 10:41:25,170 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.67 | Схожість до 'Б': 88.02% | Поріг: 0.600
+2025-02-24 10:41:26,179 - INFO - Поточний жест: Не Б | Стабільність: 96.67% | Openness ratio: 0.89 | Схожість до 'Б': 51.27% | Поріг: 0.600
+2025-02-24 10:41:27,193 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.88 | Схожість до 'Б': 53.09% | Поріг: 0.600
+2025-02-24 10:41:28,196 - INFO - Поточний жест: Немає руки | Стабільність: 36.67% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:41:29,226 - INFO - Поточний жест: Не Б | Стабільність: 13.33% | Openness ratio: 0.88 | Схожість до 'Б': 54.08% | Поріг: 0.600
+2025-02-24 10:41:30,241 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.74 | Схожість до 'Б': 76.42% | Поріг: 0.600
+2025-02-24 10:41:31,271 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.83 | Схожість до 'Б': 61.37% | Поріг: 0.600
+2025-02-24 10:41:32,271 - INFO - Поточний жест: Не Б | Стабільність: 93.33% | Openness ratio: 0.96 | Схожість до 'Б': 40.10% | Поріг: 0.600
+2025-02-24 10:41:33,286 - INFO - Поточний жест: Не Б | Стабільність: 80.00% | Openness ratio: 0.83 | Схожість до 'Б': 61.15% | Поріг: 0.600
+2025-02-24 10:41:34,328 - INFO - Поточний жест: Б | Стабільність: 80.65% | Openness ratio: 0.46 | Схожість до 'Б': 76.37% | Поріг: 0.600
+2025-02-24 10:41:35,342 - INFO - Поточний жест: Б | Стабільність: 100.00% | Openness ratio: 0.51 | Схожість до 'Б': 84.57% | Поріг: 0.600
+2025-02-24 10:41:36,367 - INFO - Поточний жест: Б | Стабільність: 100.00% | Openness ratio: 0.49 | Схожість до 'Б': 81.43% | Поріг: 0.600
+2025-02-24 10:41:37,367 - INFO - Поточний жест: Б | Стабільність: 100.00% | Openness ratio: 0.49 | Схожість до 'Б': 81.38% | Поріг: 0.600
+2025-02-24 10:41:38,377 - INFO - Поточний жест: Б | Стабільність: 100.00% | Openness ratio: 0.49 | Схожість до 'Б': 81.48% | Поріг: 0.600
+2025-02-24 10:41:39,421 - INFO - Поточний жест: Не Б | Стабільність: 70.97% | Openness ratio: 0.61 | Схожість до 'Б': 98.81% | Поріг: 0.600
+2025-02-24 10:41:40,447 - INFO - Поточний жест: Не Б | Стабільність: 93.55% | Openness ratio: 0.61 | Схожість до 'Б': 98.91% | Поріг: 0.600
+2025-02-24 10:41:41,478 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.60 | Схожість до 'Б': 99.60% | Поріг: 0.600
+2025-02-24 10:41:42,493 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.61 | Схожість до 'Б': 98.77% | Поріг: 0.600
+2025-02-24 10:41:43,506 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.61 | Схожість до 'Б': 99.02% | Поріг: 0.600
+2025-02-24 10:41:44,539 - INFO - Поточний жест: Не Б | Стабільність: 93.55% | Openness ratio: 0.84 | Схожість до 'Б': 60.80% | Поріг: 0.600
+2025-02-24 10:41:45,568 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.68 | Схожість до 'Б': 87.41% | Поріг: 0.600
+2025-02-24 10:41:46,598 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.64 | Схожість до 'Б': 92.87% | Поріг: 0.600
+2025-02-24 10:41:47,606 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.84 | Схожість до 'Б': 59.58% | Поріг: 0.600
+2025-02-24 10:41:48,620 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.67 | Схожість до 'Б': 88.91% | Поріг: 0.600
+2025-02-24 10:41:49,626 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.67 | Схожість до 'Б': 88.63% | Поріг: 0.600
+2025-02-24 10:41:50,640 - INFO - Поточний жест: Немає руки | Стабільність: 38.71% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:41:51,671 - INFO - Поточний жест: Не Б | Стабільність: 25.81% | Openness ratio: 0.85 | Схожість до 'Б': 58.60% | Поріг: 0.600
+2025-02-24 10:41:52,702 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.74 | Схожість до 'Б': 76.59% | Поріг: 0.600
+2025-02-24 10:41:53,703 - INFO - Поточний жест: Б | Стабільність: 43.33% | Openness ratio: 0.54 | Схожість до 'Б': 89.68% | Поріг: 0.600
+2025-02-24 10:41:54,714 - INFO - Поточний жест: Б | Стабільність: 90.00% | Openness ratio: 0.53 | Схожість до 'Б': 88.93% | Поріг: 0.600
+2025-02-24 10:41:55,712 - INFO - Поточний жест: Не Б | Стабільність: 66.67% | Openness ratio: 0.80 | Схожість до 'Б': 66.75% | Поріг: 0.600
+2025-02-24 10:41:56,712 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.65 | Схожість до 'Б': 90.90% | Поріг: 0.600
+2025-02-24 10:41:57,725 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.63 | Схожість до 'Б': 94.79% | Поріг: 0.600
+2025-02-24 10:41:58,724 - INFO - Поточний жест: Не Б | Стабільність: 90.00% | Openness ratio: 0.69 | Схожість до 'Б': 84.36% | Поріг: 0.600
+2025-02-24 10:41:59,725 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.64 | Схожість до 'Б': 93.04% | Поріг: 0.600
+2025-02-24 10:42:00,737 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.66 | Схожість до 'Б': 89.41% | Поріг: 0.600
+2025-02-24 10:42:01,741 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.65 | Схожість до 'Б': 91.03% | Поріг: 0.600
+2025-02-24 10:42:02,740 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.87 | Схожість до 'Б': 54.38% | Поріг: 0.600
+2025-02-24 10:42:03,775 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.84 | Схожість до 'Б': 60.40% | Поріг: 0.600
+2025-02-24 10:42:04,780 - INFO - Поточний жест: Не Б | Стабільність: 83.33% | Openness ratio: 0.72 | Схожість до 'Б': 80.62% | Поріг: 0.600
+2025-02-24 10:42:05,780 - INFO - Поточний жест: Не Б | Стабільність: 70.00% | Openness ratio: 0.62 | Схожість до 'Б': 96.81% | Поріг: 0.600
+2025-02-24 10:42:06,791 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.68 | Схожість до 'Б': 86.78% | Поріг: 0.600
+2025-02-24 10:42:07,832 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.69 | Схожість до 'Б': 85.75% | Поріг: 0.600
+2025-02-24 10:42:08,833 - INFO - Поточний жест: Немає руки | Стабільність: 33.33% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:42:09,862 - INFO - Поточний жест: Не Б | Стабільність: 61.29% | Openness ratio: 0.83 | Схожість до 'Б': 62.42% | Поріг: 0.600
+2025-02-24 10:42:10,870 - INFO - Поточний жест: Немає руки | Стабільність: 76.67% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:42:11,884 - INFO - Поточний жест: Немає руки | Стабільність: 100.00% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:42:12,929 - INFO - Поточний жест: Немає руки | Стабільність: 100.00% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:42:13,943 - INFO - Поточний жест: Немає руки | Стабільність: 100.00% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:42:14,960 - INFO - Поточний жест: Немає руки | Стабільність: 100.00% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:42:16,004 - INFO - Поточний жест: Немає руки | Стабільність: 100.00% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:42:17,007 - INFO - Поточний жест: Немає руки | Стабільність: 100.00% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:42:18,006 - INFO - Поточний жест: Немає руки | Стабільність: 100.00% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:42:19,034 - INFO - Поточний жест: Немає руки | Стабільність: 100.00% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:42:20,048 - INFO - Поточний жест: Немає руки | Стабільність: 100.00% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:42:21,057 - INFO - Поточний жест: Немає руки | Стабільність: 100.00% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:42:22,089 - INFO - Поточний жест: Немає руки | Стабільність: 100.00% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:42:23,102 - INFO - Поточний жест: Немає руки | Стабільність: 100.00% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:42:24,119 - INFO - Поточний жест: Не Б | Стабільність: 16.67% | Openness ratio: 0.99 | Схожість до 'Б': 34.65% | Поріг: 0.600
+2025-02-24 10:42:25,136 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.90 | Схожість до 'Б': 49.77% | Поріг: 0.600
+2025-02-24 10:42:26,136 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.87 | Схожість до 'Б': 55.25% | Поріг: 0.600
+2025-02-24 10:42:27,148 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.71 | Схожість до 'Б': 81.47% | Поріг: 0.600
+2025-02-24 10:42:28,145 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.74 | Схожість до 'Б': 76.30% | Поріг: 0.600
+2025-02-24 10:42:29,176 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.71 | Схожість до 'Б': 81.92% | Поріг: 0.600
+2025-02-24 10:42:30,206 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.97 | Схожість до 'Б': 37.61% | Поріг: 0.600
+2025-02-24 10:42:31,222 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.97 | Схожість до 'Б': 39.15% | Поріг: 0.600
+2025-02-24 10:42:32,255 - INFO - Поточний жест: Немає руки | Стабільність: 93.10% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:42:33,266 - INFO - Поточний жест: Немає руки | Стабільність: 100.00% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:42:34,299 - INFO - Поточний жест: Немає руки | Стабільність: 100.00% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:42:35,315 - INFO - Поточний жест: Не Б | Стабільність: 86.21% | Openness ratio: 0.90 | Схожість до 'Б': 49.34% | Поріг: 0.600
+2025-02-24 10:42:36,313 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.90 | Схожість до 'Б': 50.17% | Поріг: 0.600
+2025-02-24 10:42:37,326 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.90 | Схожість до 'Б': 50.44% | Поріг: 0.600
+2025-02-24 10:42:38,340 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.87 | Схожість до 'Б': 54.68% | Поріг: 0.600
+2025-02-24 10:42:39,351 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.86 | Схожість до 'Б': 57.43% | Поріг: 0.600
+2025-02-24 10:42:40,364 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.89 | Схожість до 'Б': 52.43% | Поріг: 0.600
+2025-02-24 10:42:41,378 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.89 | Схожість до 'Б': 51.85% | Поріг: 0.600
+2025-02-24 10:42:42,405 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.73 | Схожість до 'Б': 78.75% | Поріг: 0.600
+2025-02-24 10:42:43,402 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.75 | Схожість до 'Б': 75.76% | Поріг: 0.600
+2025-02-24 10:42:44,412 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.70 | Схожість до 'Б': 82.85% | Поріг: 0.600
+2025-02-24 10:42:45,429 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.62 | Схожість до 'Б': 96.39% | Поріг: 0.600
+2025-02-24 10:42:46,445 - INFO - Поточний жест: Не Б | Стабільність: 96.77% | Openness ratio: 0.64 | Схожість до 'Б': 93.71% | Поріг: 0.600
+2025-02-24 10:42:47,455 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.63 | Схожість до 'Б': 95.36% | Поріг: 0.600
+2025-02-24 10:42:48,464 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.90 | Схожість до 'Б': 50.18% | Поріг: 0.600
+2025-02-24 10:42:49,475 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.94 | Схожість до 'Б': 43.42% | Поріг: 0.600
+2025-02-24 10:42:50,486 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.93 | Схожість до 'Б': 44.71% | Поріг: 0.600
+2025-02-24 10:42:51,499 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.93 | Схожість до 'Б': 44.76% | Поріг: 0.600
+2025-02-24 10:42:52,509 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.88 | Схожість до 'Б': 53.51% | Поріг: 0.600
+2025-02-24 10:42:53,526 - INFO - Поточний жест: Б | Стабільність: 23.33% | Openness ratio: 0.58 | Схожість до 'Б': 96.00% | Поріг: 0.600
+2025-02-24 10:42:54,548 - INFO - Поточний жест: Б | Стабільність: 100.00% | Openness ratio: 0.57 | Схожість до 'Б': 95.42% | Поріг: 0.600
+2025-02-24 10:42:55,560 - INFO - Поточний жест: Б | Стабільність: 100.00% | Openness ratio: 0.57 | Схожість до 'Б': 95.12% | Поріг: 0.600
+2025-02-24 10:42:56,592 - INFO - Поточний жест: Не Б | Стабільність: 74.19% | Openness ratio: 0.65 | Схожість до 'Б': 90.91% | Поріг: 0.600
+2025-02-24 10:42:57,607 - INFO - Поточний жест: Б | Стабільність: 46.67% | Openness ratio: 0.58 | Схожість до 'Б': 97.47% | Поріг: 0.600
+2025-02-24 10:42:58,617 - INFO - Поточний жест: Не Б | Стабільність: 50.00% | Openness ratio: 0.61 | Схожість до 'Б': 98.46% | Поріг: 0.600
+2025-02-24 10:42:59,622 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.64 | Схожість до 'Б': 93.58% | Поріг: 0.600
+2025-02-24 10:43:00,653 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.66 | Схожість до 'Б': 89.63% | Поріг: 0.600
+2025-02-24 10:43:01,654 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.95 | Схожість до 'Б': 42.49% | Поріг: 0.600
+2025-02-24 10:43:02,668 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.94 | Схожість до 'Б': 43.58% | Поріг: 0.600
+2025-02-24 10:43:03,697 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.89 | Схожість до 'Б': 50.84% | Поріг: 0.600
+2025-02-24 10:43:04,697 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.86 | Схожість до 'Б': 56.58% | Поріг: 0.600
+2025-02-24 10:43:05,742 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.87 | Схожість до 'Б': 55.77% | Поріг: 0.600
+2025-02-24 10:43:06,742 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.85 | Схожість до 'Б': 59.11% | Поріг: 0.600
+2025-02-24 10:43:07,742 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.84 | Схожість до 'Б': 59.55% | Поріг: 0.600
+2025-02-24 10:43:08,758 - INFO - Поточний жест: Не Б | Стабільність: 96.67% | Openness ratio: 0.79 | Схожість до 'Б': 68.46% | Поріг: 0.600
+2025-02-24 10:43:09,789 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.79 | Схожість до 'Б': 68.00% | Поріг: 0.600
+2025-02-24 10:43:10,802 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.78 | Схожість до 'Б': 70.10% | Поріг: 0.600
+2025-02-24 10:43:11,833 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.76 | Схожість до 'Б': 73.65% | Поріг: 0.600
+2025-02-24 10:43:12,859 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.80 | Схожість до 'Б': 66.62% | Поріг: 0.600
+2025-02-24 10:43:13,878 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.92 | Схожість до 'Б': 47.17% | Поріг: 0.600
+2025-02-24 10:43:14,885 - INFO - Поточний жест: Немає руки | Стабільність: 53.33% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:43:15,898 - INFO - Поточний жест: Не Б | Стабільність: 10.00% | Openness ratio: 0.74 | Схожість до 'Б': 76.13% | Поріг: 0.600
+2025-02-24 10:43:16,914 - INFO - Поточний жест: Немає руки | Стабільність: 96.77% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:43:17,927 - INFO - Поточний жест: Немає руки | Стабільність: 100.00% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:43:18,932 - INFO - Поточний жест: Немає руки | Стабільність: 100.00% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:43:19,954 - INFO - Поточний жест: Немає руки | Стабільність: 100.00% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:43:20,959 - INFO - Поточний жест: Немає руки | Стабільність: 100.00% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:43:21,973 - INFO - Поточний жест: Немає руки | Стабільність: 100.00% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:43:22,973 - INFO - Поточний жест: Немає руки | Стабільність: 100.00% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:43:23,989 - INFO - Поточний жест: Немає руки | Стабільність: 100.00% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:43:25,017 - INFO - Поточний жест: Немає руки | Стабільність: 100.00% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:43:27,618 - INFO - Поточний жест: Немає руки | Стабільність: 100.00% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:43:28,627 - INFO - Поточний жест: Немає руки | Стабільність: 100.00% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:43:29,699 - INFO - Поточний жест: Немає руки | Стабільність: 100.00% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:43:30,710 - INFO - Поточний жест: Немає руки | Стабільність: 100.00% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:43:31,741 - INFO - Поточний жест: Немає руки | Стабільність: 100.00% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:43:32,762 - INFO - Поточний жест: Немає руки | Стабільність: 100.00% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:43:33,771 - INFO - Поточний жест: Немає руки | Стабільність: 100.00% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:43:34,793 - INFO - Поточний жест: Немає руки | Стабільність: 100.00% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 10:43:37,272 - INFO - Програма завершена.
+2025-02-24 11:16:35,289 - INFO - Поточний жест: Немає руки | Стабільність: 100.00% | Openness ratio: 0.00 | Схожість до 'Б': 0.00% | Поріг: 0.600
+2025-02-24 11:16:36,301 - INFO - Поточний жест: Не Б | Стабільність: 51.85% | Openness ratio: 0.62 | Схожість до 'Б': 96.41% | Поріг: 0.600
+2025-02-24 11:16:37,305 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.61 | Схожість до 'Б': 97.66% | Поріг: 0.600
+2025-02-24 11:16:38,323 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.67 | Схожість до 'Б': 89.04% | Поріг: 0.600
+2025-02-24 11:16:39,335 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.67 | Схожість до 'Б': 89.07% | Поріг: 0.600
+2025-02-24 11:16:40,349 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.67 | Схожість до 'Б': 88.40% | Поріг: 0.600
+2025-02-24 11:16:41,359 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.67 | Схожість до 'Б': 88.47% | Поріг: 0.600
+2025-02-24 11:16:42,365 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.88 | Схожість до 'Б': 52.65% | Поріг: 0.600
+2025-02-24 11:16:43,396 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.89 | Схожість до 'Б': 50.84% | Поріг: 0.600
+2025-02-24 11:16:44,436 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.89 | Схожість до 'Б': 51.95% | Поріг: 0.600
+2025-02-24 11:16:45,432 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.71 | Схожість до 'Б': 81.39% | Поріг: 0.600
+2025-02-24 11:16:46,448 - INFO - Поточний жест: Не Б | Стабільність: 86.67% | Openness ratio: 0.94 | Схожість до 'Б': 43.93% | Поріг: 0.600
+2025-02-24 11:16:47,462 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.88 | Схожість до 'Б': 53.63% | Поріг: 0.600
+2025-02-24 11:16:48,489 - INFO - Поточний жест: Не Б | Стабільність: 96.77% | Openness ratio: 0.69 | Схожість до 'Б': 85.24% | Поріг: 0.600
+2025-02-24 11:16:49,490 - INFO - Поточний жест: Не Б | Стабільність: 83.33% | Openness ratio: 0.67 | Схожість до 'Б': 88.19% | Поріг: 0.600
+2025-02-24 11:16:50,488 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.65 | Схожість до 'Б': 92.23% | Поріг: 0.600
+2025-02-24 11:16:51,503 - INFO - Поточний жест: Б | Стабільність: 36.67% | Openness ratio: 0.44 | Схожість до 'Б': 73.62% | Поріг: 0.600
+2025-02-24 11:16:52,514 - INFO - Поточний жест: Не Б | Стабільність: 63.33% | Openness ratio: 0.73 | Схожість до 'Б': 78.86% | Поріг: 0.600
+2025-02-24 11:16:53,527 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.72 | Схожість до 'Б': 79.85% | Поріг: 0.600
+2025-02-24 11:16:54,535 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.73 | Схожість до 'Б': 79.17% | Поріг: 0.600
+2025-02-24 11:16:55,563 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.73 | Схожість до 'Б': 77.91% | Поріг: 0.600
+2025-02-24 11:16:56,559 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.66 | Схожість до 'Б': 89.70% | Поріг: 0.600
+2025-02-24 11:16:57,603 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.64 | Схожість до 'Б': 93.68% | Поріг: 0.600
+2025-02-24 11:16:58,618 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.62 | Схожість до 'Б': 96.20% | Поріг: 0.600
+2025-02-24 11:16:59,631 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.65 | Схожість до 'Б': 91.23% | Поріг: 0.600
+2025-02-24 11:17:00,660 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.81 | Схожість до 'Б': 65.06% | Поріг: 0.600
+2025-02-24 11:17:01,684 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.91 | Схожість до 'Б': 48.68% | Поріг: 0.600
+2025-02-24 11:17:02,700 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.84 | Схожість до 'Б': 59.54% | Поріг: 0.600
+2025-02-24 11:17:03,724 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.88 | Схожість до 'Б': 53.17% | Поріг: 0.600
+2025-02-24 11:17:04,755 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.84 | Схожість до 'Б': 59.52% | Поріг: 0.600
+2025-02-24 11:17:05,766 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.75 | Схожість до 'Б': 75.04% | Поріг: 0.600
+2025-02-24 11:17:06,764 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.75 | Схожість до 'Б': 75.43% | Поріг: 0.600
+2025-02-24 11:17:07,779 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.73 | Схожість до 'Б': 78.02% | Поріг: 0.600
+2025-02-24 11:17:08,793 - INFO - Поточний жест: Б | Стабільність: 16.13% | Openness ratio: 0.29 | Схожість до 'Б': 48.03% | Поріг: 0.600
+2025-02-24 11:17:09,802 - INFO - Поточний жест: Б | Стабільність: 100.00% | Openness ratio: 0.44 | Схожість до 'Б': 73.76% | Поріг: 0.600
+2025-02-24 11:17:10,815 - INFO - Поточний жест: Не Б | Стабільність: 56.67% | Openness ratio: 0.97 | Схожість до 'Б': 38.09% | Поріг: 0.600
+2025-02-24 11:17:11,833 - INFO - Поточний жест: Б | Стабільність: 50.00% | Openness ratio: 0.47 | Схожість до 'Б': 77.51% | Поріг: 0.600
+2025-02-24 11:17:12,851 - INFO - Поточний жест: Не Б | Стабільність: 41.94% | Openness ratio: 0.75 | Схожість до 'Б': 75.65% | Поріг: 0.600
+2025-02-24 11:17:13,858 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.73 | Схожість до 'Б': 77.74% | Поріг: 0.600
+2025-02-24 11:17:14,870 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.63 | Схожість до 'Б': 94.21% | Поріг: 0.600
+2025-02-24 11:17:15,897 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.64 | Схожість до 'Б': 93.76% | Поріг: 0.600
+2025-02-24 11:17:16,909 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.63 | Схожість до 'Б': 94.43% | Поріг: 0.600
+2025-02-24 11:17:17,932 - INFO - Поточний жест: Не Б | Стабільність: 100.00% | Openness ratio: 0.69 | Схожість до 'Б': 84.71% | Поріг: 0.600
+2025-02-24 11:17:18,945 - INFO - Поточний жест: Не Б | Стабільність: 90.32% | Openness ratio: 0.64 | Схожість до 'Б': 92.52% | Поріг: 0.600
+2025-02-24 11:17:20,596 - INFO - Програма завершена.
+2025-02-24 11:17:20,599 - INFO - Підсумковий звіт збережено у gesture_report.txt
