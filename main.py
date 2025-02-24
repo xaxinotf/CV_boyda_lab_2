@@ -5,7 +5,7 @@ import time
 import csv
 import logging
 import matplotlib.pyplot as plt
-import pandas as pd  # Додаємо pandas для обробки звітності
+import pandas as pd  #  для підсумкової звітності
 
 # Налаштування логування
 logging.basicConfig(filename="gesture.log", level=logging.INFO,
@@ -103,6 +103,9 @@ output_video_file = "gesture_output.avi"
 # Лог для збереження даних (опційно)
 data_log = []  # Запис: час, FPS, gesture, коефіцієнт відкритості, схожість
 
+# Для збереження координат кожного landmark
+landmarks_log = []  # Запис: час, lm_0_x, lm_0_y, lm_0_z, ..., lm_20_x, lm_20_y, lm_20_z
+
 # Для аналізу стабільності за останню секунду
 recent_frames = []  # Список кортежів (timestamp, gesture_label)
 
@@ -130,9 +133,18 @@ while True:
     ratio = 0
     similarity = 0
 
+    # Якщо рука виявлена, обробляємо лише першу руку
     if results.multi_hand_landmarks:
         for hand_landmarks in results.multi_hand_landmarks:
             mp_draw.draw_landmarks(frame, hand_landmarks, mp_hands.HAND_CONNECTIONS)
+            # Запис координат кожного landmark
+            lm_data = {"timestamp": current_time - start_time}
+            for idx, lm in enumerate(hand_landmarks.landmark):
+                lm_data[f"lm_{idx}_x"] = lm.x
+                lm_data[f"lm_{idx}_y"] = lm.y
+                lm_data[f"lm_{idx}_z"] = lm.z
+            landmarks_log.append(lm_data)
+
             gesture_label, recognized, ratio, similarity = classify_gesture_by_openness(hand_landmarks.landmark,
                                                                                         openness_threshold)
             cv2.putText(frame, f"Жест: {gesture_label}", (10, 40),
@@ -163,14 +175,23 @@ while True:
             video_writer = None
         print("Запис відео:", "Увімкнено" if record_video else "Вимкнено")
     elif key & 0xFF == ord('s'):
+        # Запис даних з gesture та landmarks у CSV
         with open('gesture_data_log.csv', 'w', newline='', encoding='utf-8') as csvfile:
             fieldnames = ['timestamp', 'fps', 'gesture_label', 'ratio', 'similarity']
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
             writer.writeheader()
             for row in data_log:
                 writer.writerow(row)
-        print("Дані збережено у gesture_data_log.csv")
-        logging.info("Дані збережено у gesture_data_log.csv")
+        with open('landmarks_data_log.csv', 'w', newline='', encoding='utf-8') as csvfile:
+            # Визначаємо усі ключі з першого запису (якщо він існує)
+            if landmarks_log:
+                fieldnames = list(landmarks_log[0].keys())
+                writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+                writer.writeheader()
+                for row in landmarks_log:
+                    writer.writerow(row)
+        print("Дані збережено у gesture_data_log.csv та landmarks_data_log.csv")
+        logging.info("Дані збережено у gesture_data_log.csv та landmarks_data_log.csv")
 
     # Запис даних для аналізу
     data_log.append({
@@ -220,8 +241,7 @@ plt.show()
 print("Програма завершена.")
 logging.info("Програма завершена.")
 
-# Додаткова звітність результатів
-# Формуємо підсумковий звіт за допомогою pandas
+# Додаткова звітність результатів за допомогою pandas
 df = pd.DataFrame(data_log)
 if not df.empty:
     avg_fps = df['fps'].mean()
@@ -240,7 +260,6 @@ if not df.empty:
         f"Кількість розпізнаних жестів: {gesture_counts}\n"
     )
 
-    # Запис звіту у текстовий файл
     with open('gesture_report.txt', 'w', encoding='utf-8') as f:
         f.write(report_text)
 
